@@ -1,0 +1,110 @@
+
+.block-description {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CDCDCD;
+    line-height: 24px;
+    padding: 14px;
+}
+.block-description h1 {
+    float: left;
+    font-size: 16px;
+    margin-right: 1em;
+}
+
+
+.orange-font {
+    color: #F26C4F;
+}
+
+.bm_h {
+    background: none repeat scroll 0 0 #F2F2F2;
+    border-bottom: 1px solid #D1D9DF;
+    border-top: 1px solid #FFFFFF;
+    font-weight: 700;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 10px;
+}
+
+
+.gray-border {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CDCDCD;
+    clear: both;
+    display: block;
+    text-align: left;
+}
+
+
+.postauthor {
+    background: none repeat scroll 0 0 #E5EDF2;
+    border-right: 1px solid #C2D5E3;
+    overflow: hidden;
+    padding-left: 12px;
+    vertical-align: top;
+    width: 166px;
+}
+
+
+.postauthor {
+    background: none repeat scroll 0 0 #E5EDF2;
+    border-right: 1px solid #C2D5E3;
+    overflow: hidden;
+    padding-left: 12px;
+    vertical-align: top;
+    width: 166px;
+}
+.poster {
+    border-bottom: 1px dashed #CDCDCD;
+    font-weight: 700;
+    height: 36px;
+    line-height: 36px;
+    overflow: hidden;
+}
+.onlineyes, .onlineno {
+    background: url("../images/useronline.gif") no-repeat scroll 5px 45% rgba(0, 0, 0, 0);
+    padding-left: 20px;
+}
+.avatar {
+    margin: 10px 15px;
+}
+ul.otherinfo li {
+    height: 24px;
+    line-height: 24px;
+    overflow: hidden;
+}
+
+
+.topic-title {
+    font: bold 16px "Microsoft Yahei",Hei,Tahoma,SimHei,sans-serif;
+    padding: 12px 0 10px 20px;
+    font-family:"Î¢ÈíÑÅºÚ","ºÚÌå";
+    font-size: 20px;
+    font-weight: normal;
+  
+    border-bottom:1px dotted #CDCDCD;
+}
+
+.topic-pubtime{
+	
+	font-size: 20px;
+    font-weight: normal;
+    height:30px;
+    line-height:30px;
+  
+}
+
+.topic-content{
+	
+	font-size: 12px;
+    font-weight: normal;
+   
+    line-height:20px;
+}
+
+.postcontent {
+    overflow: hidden;
+    padding: 0 20px;
+    vertical-align: top;
+    
+}

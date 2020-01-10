@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word;
+}
+body {
+    background: url("../images/bodybg.png") repeat-x scroll 0 0 #FFFFFF;
+    font-size:12px;
+    overflow-y:hidden;
+}
+a
+{
+	text-decoration:none;
+}
+.wrap {
+    margin: 0 auto;
+    min-width: 960px;
+   
+    width: 1120px;
+}
+
+.wellcomeuser
+{
+	color:White;
+	font-size:14px;
+	padding-top:8px;
+	font-weight:800;
+}
